@@ -1,6 +1,6 @@
 // Store width and height parameters to be used in later in the canvas
 
-var svgWidth = 800;
+var svgWidth = 900;
 
 var svgHeight = 600;
 
