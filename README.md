@@ -12,4 +12,8 @@ Using the data provided by the U.S. Census Bureau and the Behavioral Risk Factor
 - CSS
 - HTML
 - D3
-- 
+- D3 ToolTips
+
+#### Procedure
+
+
