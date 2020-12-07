@@ -15,8 +15,10 @@ Using the data provided by the U.S. Census Bureau and the Behavioral Risk Factor
 - D3 ToolTips
 
 
-#### Observation
+### Observation
 Overall, from the scatterplot below, you can see that the trend states that state's with higher average yearly incomes have lower obesity percentages amoungst their population. 
+
+*North Dakota is highlighted to show the use of the ToolTip which allows users to see specific data for each state to increase the information provided by the scatterplot image itself. 
 
 
 ![scatterplot](https://github.com/jessfett/D3-Challenge/blob/main/Images/Screen%20Shot%202020-12-06%20at%209.38.05%20PM.png?raw=true)
